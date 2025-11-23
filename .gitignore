@@ -43,4 +43,7 @@ orders-server/.venv/
 orders-server/.pytest_cache/
 orders-server/.mypy_cache/
 orders-server/.pyre/
-
+orders-server/package-lock.json
+orders-server/yarn.lock
+orders-server/.cache/
+orders-server/package.json/
