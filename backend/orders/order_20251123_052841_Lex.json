@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-23T05:28:41.126836",
+  "order": {
+    "drinkType": "latte",
+    "size": "large",
+    "milk": "oat milk",
+    "extras": [
+      "vanilla"
+    ],
+    "name": "Lex"
+  }
+}

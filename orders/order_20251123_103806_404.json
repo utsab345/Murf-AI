@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-23T10:38:06.404716",
+  "order": {
+    "drinkType": "latte",
+    "size": "medium",
+    "milk": "oat milk",
+    "extras": [
+      "whipped cream"
+    ],
+    "name": "TestUser"
+  }
+}
