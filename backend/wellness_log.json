@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-11-24T05:25:38.499375+00:00",
+    "mood": "good",
+    "energy": 8,
+    "stressors": "none",
+    "objectives": [
+      "finish presentation",
+      "go for a run",
+      "meal preparation"
+    ],
+    "agent_summary": "The user is feeling good with high energy (8/10) and no stressors. Their objectives for the day are to finish a presentation, go for a run, and prepare meals."
+  }
+]
