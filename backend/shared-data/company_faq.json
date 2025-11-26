@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name": "Zerodha",
+    "short_description": "Zerodha is a cloud-based customer relationship management platform that helps businesses manage sales, marketing, and customer support from a single interface."
+  },
+  "faqs": [
+    {
+      "id": "faq_1",
+      "q": "What does Zerodha do?",
+      "a": "Zerodha helps businesses streamline their sales, marketing, and customer service operations by keeping all customer data and interactions in one place."
+    },
+    {
+      "id": "faq_2",
+      "q": "Who is Zerodha for?",
+      "a": "Zerodha is designed for businesses of all sizes—from startups to large enterprises—looking to manage customer relationships effectively."
+    },
+    {
+      "id": "faq_3",
+      "q": "Does Zerodha offer a free tier?",
+      "a": "Yes. Zerodha offers a Free Edition that supports up to 3 users with essential CRM features."
+    },
+    {
+      "id": "faq_4",
+      "q": "Can Zerodha integrate with other tools?",
+      "a": "Yes, Zerodha integrates with tools like Google Workspace, Microsoft 365, Slack, Mailchimp, and its own suite of apps."
+    },
+    {
+      "id": "faq_5",
+      "q": "Is Zerodha suitable for small businesses?",
+      "a": "Absolutely. Many small and mid-sized businesses use Zerodha for its affordability and ease of use."
+    }
+  ],
+  "pricing_summary": [
+    {
+      "product": "Free Plan",
+      "note": "Yes, a Free Edition is available for up to 3 users."
+    },
+    {
+      "product": "Standard Plan",
+      "note": "₹800/user/month billed annually"
+    },
+    {
+      "product": "Professional Plan",
+      "note": "₹1,400/user/month billed annually"
+    },
+    {
+      "product": "Enterprise Plan",
+      "note": "₹2,400/user/month billed annually"
+    },
+    {
+      "product": "Ultimate Plan",
+      "note": "₹2,800/user/month billed annually"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lead": {
+    "name": "Utsab Dahal",
+    "company": "AI Alchemist",
+    "email": "utsabdahal34@gmail.com",
+    "role": "AI Engineer",
+    "use_case": null,
+    "team_size": null,
+    "timeline": null
+  },
+  "company": {
+    "name": "Zerodha",
+    "short_description": "India's largest stock broker offering zero brokerage equity investments and flat ₹20 intraday and F&O trades. We provide a modern trading platform (Kite) with advanced charting, real-time market data, and seamless fund transfers."
+  }
+}
