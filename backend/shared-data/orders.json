@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ORD-19AED95ED0",
+    "timestamp": "2025-11-28T06:46:09.319153Z",
+    "customer": {
+      "name": "Alex",
+      "address": "Mumbai, India",
+      "note": ""
+    },
+    "items": [
+      {
+        "id": "milk-1l",
+        "name": "Milk 1L",
+        "unit_price": 60,
+        "qty": 1,
+        "unit": "1L",
+        "tags": [
+          "dairy"
+        ]
+      },
+      {
+        "id": "bread-wholewheat",
+        "name": "Whole Wheat Bread (loaf)",
+        "unit_price": 45,
+        "qty": 1,
+        "unit": "loaf",
+        "tags": [
+          "breads",
+          "whole-wheat"
+        ]
+      },
+      {
+        "id": "peanut-butter-200g",
+        "name": "Peanut Butter 200g",
+        "unit_price": 150,
+        "qty": 1,
+        "unit": "200g",
+        "tags": [
+          "spread",
+          "vegan"
+        ]
+      }
+    ],
+    "total": 255.0,
+    "status": "received",
+    "type": "grocery"
+  }
+]
