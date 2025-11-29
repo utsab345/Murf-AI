@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mug-001",
+    "name": "Stoneware Coffee Mug",
+    "description": "Hand-crafted stoneware mug, perfect for hot coffee.",
+    "price": 800,
+    "currency": "INR",
+    "category": "mug",
+    "attributes": {
+      "color": "white",
+      "material": "stoneware"
+    }
+  },
+  {
+    "id": "mug-002",
+    "name": "Matte Black Travel Mug",
+    "description": "Insulated travel mug to keep your drinks hot.",
+    "price": 1200,
+    "currency": "INR",
+    "category": "mug",
+    "attributes": {
+      "color": "black",
+      "material": "stainless steel"
+    }
+  },
+  {
+    "id": "hoodie-001",
+    "name": "Classic Cotton Hoodie",
+    "description": "Soft, comfortable cotton hoodie for everyday wear.",
+    "price": 2500,
+    "currency": "INR",
+    "category": "apparel",
+    "attributes": {
+      "color": "black",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "id": "hoodie-002",
+    "name": "Vintage Logo Hoodie",
+    "description": "Retro style hoodie with vintage logo print.",
+    "price": 3200,
+    "currency": "INR",
+    "category": "apparel",
+    "attributes": {
+      "color": "grey",
+      "size": [
+        "M",
+        "L"
+      ]
+    }
+  },
+  {
+    "id": "tshirt-001",
+    "name": "Basic White Tee",
+    "description": "Essential white t-shirt, 100% organic cotton.",
+    "price": 900,
+    "currency": "INR",
+    "category": "apparel",
+    "attributes": {
+      "color": "white",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  },
+  {
+    "id": "tshirt-002",
+    "name": "Graphic Print Tee",
+    "description": "Cool graphic tee for a casual look.",
+    "price": 1100,
+    "currency": "INR",
+    "category": "apparel",
+    "attributes": {
+      "color": "blue",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  }
+]
